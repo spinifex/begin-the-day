@@ -1,7 +1,7 @@
 import webbrowser
 
 # This launches my 6 favorite websites in one script!
-# YEAH!
+# This is good! 
 
 new=2;
 url="https://www.gmail.com";
